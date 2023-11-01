@@ -1,0 +1,14 @@
+{
+  "members": [
+    {
+      "username": "Ana Krunic",
+      "email": "ana@example.com",
+      "password": "ana123"
+    },
+    {
+      "username": "Test Test",
+      "email": "test@example.com",
+      "password":"test123"
+    }
+  ]
+}

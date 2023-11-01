@@ -1,0 +1,60 @@
+{
+   "posts":[
+    {   
+        "username":"Petar Petrovic",
+        "likes":"24",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores amet architecto ea reprehenderit consequatur aperiam quasi blanditiis saepe cum maiores. Nisi vero saepe eaque cum voluptates. Ut, animi libero? Voluptatem!",
+        "url":"./img/userIcon.png",
+        "likeUrl":"./img/like.png"
+    },
+    {
+        "username":"Ivan Ivanovic",
+        "likes":"82",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores amet architecto ea reprehenderit consequatur aperiam quasi blanditiis saepe cum maiores. Nisi vero saepe eaque cum voluptates. Ut, animi libero? Voluptatem!",
+        "url":"./img/userIcon.png",
+        "likeUrl":"./img/like.png"
+    },
+    {
+        "username":"Marko Markovic",
+        "likes":"16",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores amet architecto ea reprehenderit consequatur aperiam quasi blanditiis saepe cum maiores. Nisi vero saepe eaque cum voluptates. Ut, animi libero? Voluptatem!",
+        "url":"./img/userIcon.png",
+        "likeUrl":"./img/like.png"
+    },
+    {
+        "username":"Jovan Jovanovic",
+        "likes":"114",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores amet architecto ea reprehenderit consequatur aperiam quasi blanditiis saepe cum maiores. Nisi vero saepe eaque cum voluptates. Ut, animi libero? Voluptatem!",
+        "url":"./img/userIcon.png",
+        "likeUrl":"./img/like.png"
+    },
+    {   
+        "username":"Petar Petrovic",
+        "likes":"24",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores amet architecto ea reprehenderit consequatur aperiam quasi blanditiis saepe cum maiores. Nisi vero saepe eaque cum voluptates. Ut, animi libero? Voluptatem!",
+        "url":"./img/userIcon.png",
+        "likeUrl":"./img/like.png"
+    },
+    {
+        "username":"Ivan Ivanovic",
+        "likes":"82",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores amet architecto ea reprehenderit consequatur aperiam quasi blanditiis saepe cum maiores. Nisi vero saepe eaque cum voluptates. Ut, animi libero? Voluptatem!",
+        "url":"./img/userIcon.png",
+        "likeUrl":"./img/like.png"
+    },
+    {
+        "username":"Marko Markovic",
+        "likes":"16",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores amet architecto ea reprehenderit consequatur aperiam quasi blanditiis saepe cum maiores. Nisi vero saepe eaque cum voluptates. Ut, animi libero? Voluptatem!",
+        "url":"./img/userIcon.png",
+        "likeUrl":"./img/like.png"
+    },
+    {
+        "username":"Jovan Jovanovic",
+        "likes":"114",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores amet architecto ea reprehenderit consequatur aperiam quasi blanditiis saepe cum maiores. Nisi vero saepe eaque cum voluptates. Ut, animi libero? Voluptatem!",
+        "url":"./img/userIcon.png",
+        "likeUrl":"./img/like.png"      
+    }
+   ]
+}
